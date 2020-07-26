@@ -19,7 +19,7 @@ function OnStart()
     
     db.ExecuteSql( "CREATE TABLE IF NOT EXISTS motdepasse " +  
         "(d1 text)" );  
-    db.ExecuteSql( "DELETE FROM motdepasse" );
+    // db.ExecuteSql( "DELETE FROM motdepasse" );
    
     //db.ExecuteSql( "DELETE FROM donnees" );  
     
