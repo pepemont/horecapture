@@ -3,7 +3,7 @@ Open-source Horeca personal data collector written in Droidscript for Android
 
 This is the javascript sourcecode.
 
-A beta SDK package has been released (https://github.com/pepemont/horecapture/releases/).
+A beta SPK package has been released (https://github.com/pepemont/horecapture/releases/).
 
 FEATURES :
 
